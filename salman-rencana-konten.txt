@@ -4,3 +4,4 @@ Rencana Konten Salman
 - Menentukan akan membuat konten apa
 * Moto Vlog
 * Konten Games
+- Membuat video konten 1 bulan sekali
