@@ -8,3 +8,4 @@ Rencana Konten Salman
   * Vegas
   * Kine Master
 - Membuat konten video semampunya
+- Membuat konten masak
