@@ -2,6 +2,9 @@ Rencana Konten Salman
 
 - Membeli perlatan (Kamera, Tripod dan set mic vloging)
 - Menentukan akan membuat konten apa
-* Moto Vlog
-* Konten Games
+  * Moto Vlog
+  * Konten Games
+- Software yang akan digunakan untuk mengedit
+  * Vegas
+  * Premier Pro
 - Membuat video konten 1 bulan sekali
